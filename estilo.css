@@ -176,6 +176,7 @@ h1 span{
 	font-size: 1.6rem;
 }
 .information{
+	@media screen and (max-width: 768px)
 	background: #fff;
 	padding: 30px 10vw;
 	border-radius: 50px;
